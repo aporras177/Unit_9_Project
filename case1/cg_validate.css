@@ -1,0 +1,21 @@
+/*
+   New Perspectives on HTML and CSS, 7th Edition
+   Tutorial 7
+   Case Problem 1
+
+   ACGIP Registration Validation Style Sheet
+   Author: Ariahnnah Porras   
+   Date:   12/05/19
+
+   Filename: cg_validate.css
+
+*/
+
+
+/* Validation Styles */
+input, select, textarea{
+   background-color: rgb(245, 245, 140);
+   background-image: url(cg_valid.png);
+   background-repeat: no-repeat;
+   background-position: center right;
+}
